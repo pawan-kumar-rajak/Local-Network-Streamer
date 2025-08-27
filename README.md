@@ -36,7 +36,7 @@ Local File Streamer is more than just a file server. It’s a **private, offline
 
 | 🖥️ Launcher | 📱 Web Browser | 🎞️ Video Player |
 |-------------|----------------|-----------------|
-|  <img src="/images/app.png" alt="Project app" width="140"> |  <img src="/images/file.png" alt="file explore" width="140">|  <img src="/images/player.png" alt="video player" width="140"> |
+|  <img src="/images/app.png" alt="Project app" > |  <img src="/images/file.png" alt="file explore" >|  <img src="/images/player.png" alt="video player"> |
 
 ---
 
@@ -178,3 +178,4 @@ sequenceDiagram
 
 
 ---
+
