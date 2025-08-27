@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image.png" alt="Project Logo" width="140">
+  <img src="/images/image.png" alt="Project Logo" width="140">
 </p>
 
 <h1 align="center">🎶📂 Local File Streamer 🎥💻</h1>
@@ -36,7 +36,7 @@ Local File Streamer is more than just a file server. It’s a **private, offline
 
 | 🖥️ Launcher | 📱 Web Browser | 🎞️ Video Player |
 |-------------|----------------|-----------------|
-| ![Launcher](#) | ![Browser](#) | ![Player](#) |
+|  <img src="/images/app.png" alt="Project app" width="140"> |  <img src="/images/file.png" alt="file explore" width="140">|  <img src="/images/player.png" alt="video player" width="140"> |
 
 ---
 
@@ -173,6 +173,7 @@ sequenceDiagram
 ## 📜 License
 
 [MIT License](./LICENSE) © 2025 Pawan Kumar Rajak
+
 
 
 
