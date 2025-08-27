@@ -80,7 +80,6 @@ Local File Streamer is more than just a file server. It’s a **private, offline
 | GUI          | 🖥️ PyQt6 |
 | Media Engine | 🎥 FFmpeg (bundled) |
 | Packaging    | 📦 PyInstaller |
-| Discovery    | 🌍 Zeroconf (mDNS) |
 
 ---
 
@@ -178,4 +177,5 @@ sequenceDiagram
 
 
 ---
+
 
